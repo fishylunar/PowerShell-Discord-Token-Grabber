@@ -22,6 +22,4 @@
  
  "batch-grabber-obf.cmd" - Obfuscated version of "batch-grabber.cmd"
 
-## <3
-
-# ~Jayy
+## <3 ~Jayy
